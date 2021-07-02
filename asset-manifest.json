@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ListedecontactREACTJS/static/css/main.3acfc38b.chunk.css",
+    "main.js": "/ListedecontactREACTJS/static/js/main.358190de.chunk.js",
+    "main.js.map": "/ListedecontactREACTJS/static/js/main.358190de.chunk.js.map",
+    "runtime-main.js": "/ListedecontactREACTJS/static/js/runtime-main.b828091b.js",
+    "runtime-main.js.map": "/ListedecontactREACTJS/static/js/runtime-main.b828091b.js.map",
+    "static/css/2.d45d6843.chunk.css": "/ListedecontactREACTJS/static/css/2.d45d6843.chunk.css",
+    "static/js/2.84b2b98e.chunk.js": "/ListedecontactREACTJS/static/js/2.84b2b98e.chunk.js",
+    "static/js/2.84b2b98e.chunk.js.map": "/ListedecontactREACTJS/static/js/2.84b2b98e.chunk.js.map",
+    "static/js/3.e7f07897.chunk.js": "/ListedecontactREACTJS/static/js/3.e7f07897.chunk.js",
+    "static/js/3.e7f07897.chunk.js.map": "/ListedecontactREACTJS/static/js/3.e7f07897.chunk.js.map",
+    "index.html": "/ListedecontactREACTJS/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/ListedecontactREACTJS/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.3acfc38b.chunk.css.map": "/ListedecontactREACTJS/static/css/main.3acfc38b.chunk.css.map",
+    "static/js/2.84b2b98e.chunk.js.LICENSE.txt": "/ListedecontactREACTJS/static/js/2.84b2b98e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b828091b.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.84b2b98e.chunk.js",
+    "static/css/main.3acfc38b.chunk.css",
+    "static/js/main.358190de.chunk.js"
+  ]
+}
